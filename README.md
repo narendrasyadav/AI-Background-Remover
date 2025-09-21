@@ -75,7 +75,8 @@ This project uses the following Python libraries:
 ---
 
 ## 🔮 Demo (Screenshots)
-*(You can add screenshots here after running the notebook)*  
+<img width="1853" height="1581" alt="image" src="https://github.com/user-attachments/assets/fba69d7c-20c7-4819-997c-331a167b0d37" />
+ 
 
 ---
 
