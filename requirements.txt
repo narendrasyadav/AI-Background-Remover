@@ -1,0 +1,4 @@
+gradio>=4.0.0
+rembg>=2.0.50
+pillow>=9.0.0
+numpy>=1.21.0
